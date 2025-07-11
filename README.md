@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/yuhanguyen1" target="blank"><img src="https://img.shields.io/twitter/follow/yuhanguyen1?logo=twitter&style=for-the-badge" alt="yuhanguyen1" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [github.com/yuhanguyen1/](github.com/yuhanguyen1/)
+- 👨‍💻 All of my projects are available at [Link](github.com/yuhanguyen1/)
 
 - 📫 How to reach me **nguyenanhhuy21112002@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1aiBbzGHuryPBxKJX1p1BjJotctSEgxm4/edit?usp=sharing&ouid=106605749175832215428&rtpof=true&sd=true](https://docs.google.com/document/d/1aiBbzGHuryPBxKJX1p1BjJotctSEgxm4/edit?usp=sharing&ouid=106605749175832215428&rtpof=true&sd=true)
+- 📄 Know about my experiences [My CV/Resume](https://docs.google.com/document/d/1aiBbzGHuryPBxKJX1p1BjJotctSEgxm4/edit?usp=sharing&ouid=106605749175832215428&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
