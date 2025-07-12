@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/yuhanguyen1" target="blank"><img src="https://img.shields.io/twitter/follow/yuhanguyen1?logo=twitter&style=for-the-badge" alt="yuhanguyen1" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [Link](github.com/yuhanguyen1/)
+- 👨‍💻 All of my projects are available at [View my projects](https://github.com/yuhanguyen1?tab=repositories)
 
 - 📫 How to reach me **nguyenanhhuy21112002@gmail.com**
 
