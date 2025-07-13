@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huy Nguyen a.k.a. Yuha</h1>
-<h3 align="left">Marketing graduate with practical experience in F&B and Hospitality. I combine domain expertise in customer behavior and market trends with analytics tools like Python, SQL, and Power BI to deliver insights that support strategic marketing decisions.</h3>
+<h3 align="left">I am a Marketing graduate with practical experience in F&B and Hospitality. I combine domain expertise in customer behavior and market trends with analytics tools like Python, SQL, and Power BI to deliver insights that support strategic marketing decisions.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuhanguyen1" alt="yuhanguyen1" /></a> </p>
 
